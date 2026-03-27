@@ -39,7 +39,7 @@ permitindo acompanhar a evolução dos indicadores e identificar gargalos de cob
 
 ### 3.2 Gráfico
 
-![Cobertura de ISSN por ano](grafico_cobertura_issn_por_ano.png)
+<img width="1785" height="882" alt="Image" src="https://github.com/user-attachments/assets/cd8df92e-2cd1-458e-8ee6-b206c6d065a7" />
 
 ### 3.3 Cobertura por ano
 
@@ -67,7 +67,7 @@ A cobertura abaixo é inferida a partir do tipo/subtipo da produção. A regra u
 | ISSN                     |                 54 |                  53 |                   1 |           98.15 |
 | OUTRO                    |                 18 |                   0 |                  18 |            0    |
 
-![Cobertura do identificador esperado por tipo](grafico_cobertura_identificador_tipo.png)
+
 
 ### 4.2 Cobertura por estrato e tipo inferido
 
@@ -98,7 +98,8 @@ A cobertura abaixo é inferida a partir do tipo/subtipo da produção. A regra u
 | B1         |             1 |
 | B3         |             1 |
 
-![Distribuição por estrato](grafico_distribuicao_estratos.png)
+
+<img width="1485" height="733" alt="Image" src="https://github.com/user-attachments/assets/f4d35cfa-d6ee-43ee-86d5-2a86b54bef9a" />
 
 ### 5.1 Distribuição por ano
 
@@ -227,9 +228,11 @@ A cobertura abaixo é inferida a partir do tipo/subtipo da produção. A regra u
 | MARCUS ROGERIO DE CASTRO            |             2 |             0     |        0     |    0 |    0 |    0 |    0 |    0 |    0 |    0 |            2 |    0 |                0          |
 | WENDLEY SOUZA DA SILVA              |             2 |             0     |        0     |    0 |    0 |    0 |    0 |    0 |    0 |    0 |            2 |    0 |                0          |
 
-![Ranking DPI](grafico_ranking_dpi.png)
 
-![Ranking PR](grafico_ranking_pr.png)
+<img width="1493" height="979" alt="Image" src="https://github.com/user-attachments/assets/e3e4a099-5d76-4561-9e6a-e27b91fb36a4" />
+<img width="1492" height="979" alt="Image" src="https://github.com/user-attachments/assets/c358eb85-6018-4fcf-b26f-5129ef6650a2" />
+
+
 
 ### 7.2 Programa (consolidado)
 
@@ -308,6 +311,6 @@ A cobertura abaixo é inferida a partir do tipo/subtipo da produção. A regra u
 |   15 |                        15 |                                42 |                      4.475 |         0.2983 |         4.475 |              2023 |
 |   14 |                        14 |                                39 |                      3.075 |         0.2196 |         3.075 |              2024 |
 
-![DPI do programa por ano](grafico_dpi_programa_ano.png)
-
-![PR do programa por ano](grafico_pr_programa_ano.png)
+<img width="1035" height="732" alt="Image" src="https://github.com/user-attachments/assets/e38fc446-35e5-46a3-a06d-c2fb9b451123" />
+<img width="1185" height="732" alt="Image" src="https://github.com/user-attachments/assets/ace2b4f0-a70c-42d2-990a-e9d9f2606254" />
+<img width="1335" height="732" alt="Image" src="https://github.com/user-attachments/assets/6681f336-b86f-4a2a-ae57-70a7b820d8dc" />
